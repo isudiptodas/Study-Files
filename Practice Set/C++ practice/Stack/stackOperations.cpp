@@ -6,7 +6,7 @@ class Stack{
     int *arr;
     int top;
     int size;
-    
+     
     public:
      
     Stack(int size){
