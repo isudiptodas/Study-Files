@@ -8,7 +8,7 @@ class Stack{
     int size;
     
     public:
-    
+     
     Stack(int size){
         this->size = size;
         arr = new int[size];
