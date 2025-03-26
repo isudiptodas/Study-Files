@@ -36,7 +36,7 @@ class Stack{
         
     }
     
-    int capacity(){
+    int capacity(){ 
         return size;
     }
     
