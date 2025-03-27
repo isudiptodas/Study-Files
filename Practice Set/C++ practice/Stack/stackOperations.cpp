@@ -5,7 +5,7 @@ class Stack{
     
     int *arr;
     int top;
-    int size;
+    int size; 
      
     public:
      
