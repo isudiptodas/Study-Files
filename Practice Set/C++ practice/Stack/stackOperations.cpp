@@ -22,7 +22,7 @@ class Stack{
         }
         
         top++;
-        arr[top] = val;
+        arr[top] = val; 
     }
     
     void pop(){
